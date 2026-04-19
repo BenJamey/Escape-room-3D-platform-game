@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/IK_Josh.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/RTG_To_Josh.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_1001_Diffuse.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_1001_Glossiness.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_1001_Normal.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_1001_Specular.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_nonPBR_Skeleton.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_1002_Diffuse.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_body.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_hair.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_nonPBR.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Ch23_nonPBR_Anim.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMF_Idle.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMF_Run_Fwd.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMF_Walk_Fwd.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_Fall_Loop.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_Idle.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_Jump.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_Land.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_Run_Fwd.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_T_Pose.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_Walk_Fwd.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshMM_Walk_InPlace.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshBS_MM_WalkRun.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/JoshABP_Manny.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Running__1_.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Idle__1_.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Movement_BlendSPace.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Josh_Animation_Blueprint.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Walking.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Jumping_Up__2_.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Falling_Idle__1_.uasset",
+				"C:/Users/GGPC/Documents/Escape-room-3D-platform-game/EscapeRoomPlatformer/Content/Characters/Josh/Animations/Falling_To_Landing__1_.uasset"
+			]
+		}
+	]
+}
