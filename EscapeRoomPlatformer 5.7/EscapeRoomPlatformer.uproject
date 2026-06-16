@@ -23,5 +23,8 @@
 			"Name": "Fab",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
