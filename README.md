@@ -9,4 +9,4 @@ My project is an Escape room 3D platform game. The idea is that you
 As this is just a MVP there are a few minor bugs and things you should know about it.
 
 ## How to link an image:
-![alt text](image.jpg)
+![alt text](Game screenshot.png)
