@@ -16,7 +16,7 @@ My project is an Escape room 3D platform game. The idea is that you go through v
 - Character models and animations were imported from [Mixamo](https://www.mixamo.com/#/)
 - Sound effects were downloaded from [Pixabay](https://pixabay.com/)
 - Various assets assets and textures were imported from [Fab](https://www.fab.com/)
-- The UI/buttons for the main and pause menu were developed and imported from [Figma](figma.com)
+- The UI/buttons for the main and pause menu were developed and imported from [Figma](https://www.figma.com/login)
 
 ## Things you should know about this current build
 As this is just a MVP there are a few minor bugs and things you should know about it. All thing that would be fixed/reworked in future updates:
