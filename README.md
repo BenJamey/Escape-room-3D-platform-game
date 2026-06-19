@@ -36,6 +36,9 @@ My project is an Escape room 3D platform game. The idea is that you go through v
 - Press **P** to pause the game
 - Press **I** to open inventory then click a button to equipd/look at that item. Press **B** when looking at an item to put it away
 
+## How to start my projet
+To start my project, go into my packaged file (Named Windows), then select the "EscapeRoomPlatformer" Aplication (Not the folder) to launch the game. Note that once your in the game I reccomend going into the options and clicking the **clear save data button** to reset all settings and record completion times to get a fresh save file **(This does close your game so just reopen it the same way).** Then you should be ready to go. Note that if the game asks if your sure you'd like to run it, it should be fine.
+
 ## Things you should know about this current build
 As this is just a MVP there are a few minor bugs and things you should know about it. All thing that would be fixed/reworked in future updates:
 - When entering a code at keypads, you need to **double click** each button for it to work as of this build
