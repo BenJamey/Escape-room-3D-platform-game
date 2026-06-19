@@ -27,3 +27,10 @@ As this is just a MVP there are a few minor bugs and things you should know abou
 
 ## How to link an image:
 ![alt text](GameScreenshot.png)
+![alt text](GithubScreenshots/LedgeGrabScreenshot.png)
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
