@@ -45,7 +45,7 @@ As this is just a MVP there are a few minor bugs and things you should know abou
 - There are currently only 7 levels
 - When climbing ledges the camera and glitch into the player a little
 - Opening the inventory **(Pressing I)** only works when the player isn't near something they can interact with **(When the light on they're back is turned off)**
-- If you open your inventoru when against and facing a wall, the player will clip into it, this is fixed by just closing out of the inventory, so just make sure your away from a wall when doing so
+- If you open your inventory when against and facing a wall, the player will clip into it, this is fixed by just closing out of the inventory, so just make sure your away from a wall when doing so
 - Alot of people seem to struggle with level 6, so heres the solution to get the code: Papers A and B give you the first and second half of the code and you need to combine the last and first number respectvly. Example: if paper A and B Read "123.." and "..345", then the code is 12345
 
 ## In game screenshots:
